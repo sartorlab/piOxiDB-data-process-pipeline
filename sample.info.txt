@@ -1,0 +1,4 @@
+Treated.R1_001.fastq.gz	treated	1
+Untreated.R1_001.fastq.gz	untreated	1
+Treated1.R1_001.fastq.gz	treated	1
+Untreated1.R1_001.fastq.gz	untreated	1
